@@ -1,5 +1,5 @@
 # EC2-instences-in--terraform
-virtual networks and subnets to the resource group together with a virtual machine infrastructure has been deployed verify the VM logins To deploy many virtual machines with the same configuration
+virtual networks and subnets to the resource group together with a virtual machine infrastructure has been deployed verify the VM logins. To deploy many virtual machines with the same configuration
 
 # creating EC2 instance with terraform
      commands to deploy the EC2 instance:
@@ -13,10 +13,11 @@ virtual networks and subnets to the resource group together with a virtual machi
  ![ubuntu](https://user-images.githubusercontent.com/87926728/219051674-c092b23a-a193-4f94-8b70-284b174159a1.jpg)
 ![ubuntu out](https://user-images.githubusercontent.com/87926728/219051702-756cc5e9-5edb-454c-b9ca-9949500f5a8c.jpg)
 
-# create directory for terraform
+# create directory for terraform 
+        Mkdir terraform
     create two files inside the terraform file
-    file1 ec2.tr
-    file2 provider.tr
+    file1 ec2.tf
+    file2 provider.tf
 
 # In file1 write the command for create the instances with properties
 
