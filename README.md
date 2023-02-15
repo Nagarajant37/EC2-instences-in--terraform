@@ -24,8 +24,12 @@ virtual networks and subnets to the resource group together with a virtual machi
 
 # save the both file in terraform file with file name ".tf"
 
-# Deploy the instance using deploy comments given above. 
+# Deploy the instance using deploy comments given below. 
       one by one run the commands
+      terraform init 
+      terraform plan 
+      terraform apply 
+      terraform show 
 
 # It will shows the instance is created or not 
  ![ubuntu](https://user-images.githubusercontent.com/87926728/219051674-c092b23a-a193-4f94-8b70-284b174159a1.jpg)
