@@ -3,10 +3,10 @@ virtual networks and subnets to the resource group together with a virtual machi
 
 >>creating EC2 instance with terraform
 commands to deploy the EC2 instance:
-  > terraform init 
-  > terraform plan
-  > terraform apply
-  > terraform show
+  > terraform init ,
+  > terraform plan ,
+  > terraform apply ,
+  > terraform show ,
 
 >> First install the terraform in any operating system like redhat,windows,centos,ubuntu
  In ubuntu to install terraform command is "sudo apt install terraform"
