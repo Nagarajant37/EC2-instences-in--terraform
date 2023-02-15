@@ -70,3 +70,4 @@ resource "aws_route_table_association" "tom-public-2-a" {
   subnet_id      = aws_subnet.tom-public-2.id
   route_table_id = aws_route_table.tom-public.id
 }
+
