@@ -11,12 +11,10 @@ virtual networks and subnets to the resource group together with a virtual machi
 # First install the terraform in any operating system like redhat,windows,centos,ubuntu
  In am using ubuntu to install terraform 
       command is "sudo apt install terraform"
- ![ubuntu](https://user-images.githubusercontent.com/87926728/219051674-c092b23a-a193-4f94-8b70-284b174159a1.jpg)
-![ubuntu out](https://user-images.githubusercontent.com/87926728/219051702-756cc5e9-5edb-454c-b9ca-9949500f5a8c.jpg)
 
 # create directory for terraform 
     Mkdir terraform
-    create two files inside the terraform file
+    create two files inside the terraform file :
     file1 ec2.tf
     file2 provider.tf
 
@@ -30,6 +28,8 @@ virtual networks and subnets to the resource group together with a virtual machi
       one by one run the commands
 
 # It will shows the instance is created or not 
+ ![ubuntu](https://user-images.githubusercontent.com/87926728/219051674-c092b23a-a193-4f94-8b70-284b174159a1.jpg)
+![ubuntu out](https://user-images.githubusercontent.com/87926728/219051702-756cc5e9-5edb-454c-b9ca-9949500f5a8c.jpg)
 
 # Open AWS console 
      Check the AWS console to confirm the instance is running 
