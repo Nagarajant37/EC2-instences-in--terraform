@@ -24,7 +24,7 @@ virtual networks and subnets to the resource group together with a virtual machi
 
 # save the both file in terraform file with file name ".tf"
 
-# Deploy the instance using deploy comments given below. 
+# Deploy the instance using the comments given below. 
       one by one run the commands
       terraform init 
       terraform plan 
