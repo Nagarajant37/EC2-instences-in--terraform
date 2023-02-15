@@ -24,7 +24,7 @@ virtual networks and subnets to the resource group together with a virtual machi
 
 # In file2 write the command of provider details of instance like vpc,subnets and "secert key","Access key"
 
-# save the both file in terraform file with file name ".tr"
+# save the both file in terraform file with file name ".tf"
 
 # Deploy the instance using deploy comments given above. 
       one by one run the commands
