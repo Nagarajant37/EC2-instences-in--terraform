@@ -7,6 +7,7 @@ virtual networks and subnets to the resource group together with a virtual machi
      2. terraform plan 
      3. terraform apply 
      4. terraform show 
+![init](https://user-images.githubusercontent.com/87926728/219276935-2aae0af0-c0bd-4c73-8406-16f97b66a3c6.jpg)
 
 # First install the terraform in any operating system like redhat,windows,centos,ubuntu
  In am using ubuntu to install terraform 
@@ -41,5 +42,6 @@ virtual networks and subnets to the resource group together with a virtual machi
 ![terraform](https://user-images.githubusercontent.com/87926728/219051188-662e7653-0b42-4ac9-b74e-5dfbc30c7fb4.png)
 ![terra1](https://user-images.githubusercontent.com/87926728/219051267-3614b7f9-2de0-4ba8-a8f2-8a7391b597d9.png)
 ![instance](https://user-images.githubusercontent.com/87926728/219051305-66eb1212-752e-47eb-b58b-b4e185fbd8c5.png)
+
 
 
