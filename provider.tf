@@ -1,7 +1,7 @@
 provider "aws" {
     region = "us-east-1"
-    access_key = "AKIxxxxxxxxxxxxxx"
-    secret_key = "e6g6AhdrFwCurxxxxxxxxxxxxxxxxxxx"
+    access_key = "Axxxxxxxxxxxxxxxxx"
+    secret_key = "e6gxxxxxxxxxxxxxxxxxxxxxxxxxx"
   
 }
 # Creating VPC,name, CIDR and Tags
@@ -70,4 +70,6 @@ resource "aws_route_table_association" "tom-public-2-a" {
   subnet_id      = aws_subnet.tom-public-2.id
   route_table_id = aws_route_table.tom-public.id
 }
+
+
 
